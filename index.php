@@ -17,7 +17,7 @@ if( !isset($_SESSION['login']) ) {
     <div class="container">
         <h1 class="display-4"> Sistem Pendukung Keputusan Metode SAW </h1>
         <hr>
-        <p class="lead">Sistem pendukung keputusan dengan menggunakan metode SAW. Terdapat 5 kriteria yang dinilai dalam sistem ini yaitu C1 ( harga barang ), C2 ( nilai investasi 10 tahun kedepan ), C3 ( daya dukung terhadap produk ), C4 ( proritas kebutuhan ), C5 ( ketersedian barang ). Dari setiap kriteria terdapat bobot-bobot yang dapat diedit didalam sistem ini. Sistem ini bertujuan untuk menetukan keperluan iverstasi dalam rangka meningkatkan kinerja perusahaan kedepanya, dengan menggunakan perangkingan.</p>
+        <p class="lead">Sistem pendukung keputusan dengan menggunakan metode SAW. Terdapat 5 kriteria yang dinilai dalam sistem ini yaitu C1 ( Harga Motor ), C2 ( Kualitas ), C3 ( Desain ), C4 ( Purna Jual ), C5 ( Konsumsi BBM ). Dari setiap kriteria terdapat bobot-bobot yang dapat diedit didalam sistem ini. Sistem ini bertujuan untuk menetukan keperluan iverstasi dalam rangka meningkatkan kinerja perusahaan kedepanya, dengan menggunakan perangkingan.</p>
     </div>
     </div>
 </div>
